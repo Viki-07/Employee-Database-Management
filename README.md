@@ -1,16 +1,19 @@
-# employee_base
+# Employee Database Management App
 
-A new Flutter project.
+A new Flutter app that manages data of Employees.
 
-## Getting Started
+## Database Used :-
+- Hive Database
+  -  Hive is a lightweight and blazing fast key-value database written in pure Dart.
+  -  It stores data in local storage.
+  
 
-This project is a starting point for a Flutter application.
+## Things you can do 
 
-A few resources to get you started if this is your first Flutter project:
+- Add an Employee
+- Delete Employee from database.
+- Update Employee Data in Database.
+- **A Employee's card is marked green if he has YOE(Years of Experience) greater than 5 Years and is marked as an Active Employee.**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots :-
+<img src="https://user-images.githubusercontent.com/96718201/211138853-87fe293a-0f55-428c-b2f6-cd901a81ed63.jpg" width="300"> | <img src="https://user-images.githubusercontent.com/96718201/211138856-4d4bc874-71f7-4cb2-89fb-a79cb54cd81f.jpg" width="300">
